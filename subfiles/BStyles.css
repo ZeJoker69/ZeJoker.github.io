@@ -1,0 +1,19 @@
+body{background-color: grey;}
+h1 {
+  color: red;
+  font-style: italic;
+}
+img:hover {
+  background-color: red;
+  height: 150px;
+}
+
+.bacon {
+  height: 100px;
+}
+.face {border-radius: 100%}
+
+#i {color: green;}
+#R {color: red;}
+#W {color: white;}
+#B {color: Blue;}

@@ -1,0 +1,27 @@
+body{
+  background-color: aqua;
+}
+h1{
+  align-content: end;
+}
+
+.work{
+  border-style: dotted;
+  background-color: beige;
+}
+.table1{
+  border-style: dotted;
+  background-color: coral;
+}
+.table2{
+  border-style: dashed;
+}
+.image1{
+  align: left;
+  float: left;
+}
+hr{
+  border-style: dotted;
+}
+
+
